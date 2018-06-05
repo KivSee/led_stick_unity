@@ -1,0 +1,31 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon R7 200 Series (ID=0x6610)
+    Vendor:   ATI
+    VRAM:     1004 MB
+    Driver:   22.19.677.257
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Amir\Documents\LedsTest\Exes\LEDTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Amir\Documents\LedsTest\Exes\LEDTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Amir\Documents\LedsTest\Exes\LEDTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Amir\Documents\LedsTest\Exes\LEDTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Amir\Documents\LedsTest\Exes\LEDTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Amir\Documents\LedsTest\Exes\LEDTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Amir\Documents\LedsTest\Exes\LEDTest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Amir\Documents\LedsTest\Exes\LEDTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.020 seconds
+Platform assembly: C:\Users\Amir\Documents\LedsTest\Exes\LEDTest_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Amir\Documents\LedsTest\Exes\LEDTest_Data\Managed\System.dll (this message is harmless)
+desktop: 1680x1050 60Hz; virtual: 1680x1050 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.976005 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 38e8 -> priority: 1 
+  Thread -> id: 3eb4 -> priority: 1 
+  Thread -> id: 3cf4 -> priority: 1 
+  Thread -> id: 3240 -> priority: 1 
